@@ -11,3 +11,5 @@ RecipeGen is a **React-based website** that uses **Mistral AI** and **Hugging Fa
 - React.js, Mistral AI, Hugging Face API
 
 Start cooking smarter today! 🍽️✨
+
+## 🔹 **[LINK](https://recipe-6f12rwt2z-rahulib5s-projects.vercel.app/)**
